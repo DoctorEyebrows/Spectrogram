@@ -1,0 +1,1 @@
+extract_notes.py produces a spectrogram image from a .wav file. analyse_spectrogram.py takes a spectrogram image and lets you zoom in on part of it and click an individual pixel - it then maps the frequency to the corresponding note and prints it out, letting you transcribe music without recognising notes by ear.
